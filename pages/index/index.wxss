@@ -1,0 +1,13 @@
+/**index.wxss**/
+page{
+   background-image:url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1590993808287&di=d500b8c3352f09bc3c09a9afcb279b11&imgtype=0&src=http%3A%2F%2Fimg2.imgtn.bdimg.com%2Fit%2Fu%3D2198990252%2C2278229550%26fm%3D214%26gp%3D0.jpg);background-size: 100% 100%;background-repeat: no-repeat;
+  }
+.begininfo {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
